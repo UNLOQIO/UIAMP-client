@@ -1,0 +1,19 @@
+{
+  "name": "uiamp-client",
+  "author": "UNLOQ Systems",
+  "version": "1.0.1",
+  "dependencies": {
+    "socket.io-client": "^1.7.2"
+  },
+  "description": "UNLOQ.io Identity, Access and Permission management client for UIAMP-server",
+  "main": "launch.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UNLOQIO/UIAMP-client"
+  },
+  "homepage": "https://unloq.io",
+  "bugs": {
+    "url": "https://github.com/UNLOQIO/UIAMP-client/issues"
+  }
+}
